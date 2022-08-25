@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="s2Xb0x6S7nShGCgkIJtYSyQmz0JD9v84cU0P03YOujY" />
-</head>
 I am Arif Raihan Mahee an experienced problem solver and expert in algorithm and data structure . Have problem-solving experience of more than 6 years. Below are hacker rank and code forces profile:
 https://www.hackerrank.com/arif_rayhan
 http://codeforces.com/profile/AR_Mahee
