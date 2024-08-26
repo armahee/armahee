@@ -30,7 +30,7 @@
 <div id="bodyContent" class="mw-body-content">
 
 <div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table style="border: 2px solid #ff7f00;margin: 0.5em;clear: left;overflow: hidden;width:22em; float:right;" cellspacing="5"><tbody><tr><th colspan="2" class="" style="text-align:center; font-size:125%; font-weight:bold;"><span class="fn">Arif Raihan Mahee</span></th></tr><tr class=""><td colspan="2" class="OFN Studio" style="text-align:center;">
-<img alt="" src="https://raw.githubusercontent.com/armahee/armahee/main/DSC05214%20(1).jpg" width="300" height="201"><br><span style="">Competitive Programmer and Software Engineer</span></td></tr><tr class=""><th scope="row" style="text-align:left;">Native name</th>
+<img alt="" src="https://raw.githubusercontent.com/armahee/armahee/main/DSC05214%20(1).jpg" width="300" height="300"><br><span style="">Competitive Programmer and Software Engineer</span></td></tr><tr class=""><th scope="row" style="text-align:left;">Native name</th>
 <td class="" style="">
 <span class="nickname">আরিফ রায়হান মাহি</span></td></tr><tr class=""><th scope="row" style="text-align:left;">Born</th>
 <td class="" style="">
